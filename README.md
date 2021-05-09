@@ -9,9 +9,8 @@ This project is part of the research under
 * The research was performed on the IoT-23 dataset.  
   
 ## Data Preprocessing
-This file is the data preprocessing for IoT-23 dataset.  
-Which loads 23 datasets seprately into Pandas dataframe, then skip the first 10 rows (headers) and load the 100,000 rows after.  
-When finished, it combines 23 dataframes into a new dataset: iot23 combined.csv
+This file is the data preprocessing for IoT-23 dataset. It loads 23 datasets seprately into Pandas dataframe, then skip the first 10 rows (headers) and load the 100,000 rows after. When finished, it combines 23 dataframes into a new dataset:  
+iot23 combined.csv  
   
 ## Models
 There are total of 4 models are implemented in this project:  
