@@ -22,5 +22,6 @@ Anaconda Jupyter Notebook
 Python 3.8  
 Tensorflow 2.4  
   
-## IoT-23 Dataset
+## IoT-23 Dataset  
+Stratosphere Laboratory. A labeled dataset with malicious and benign IoT network traffic. January 22th. Agustin Parmisano, Sebastian Garcia, Maria Jose Erquiaga.  
 https://www.stratosphereips.org/datasets-iot23
