@@ -14,7 +14,10 @@ iot23 combined.csv
   
 ## Models
 There are total of 4 models are implemented in this project:  
-CNN, SVM, Decision Trees, Navie Bayes
+* CNN
+* SVM
+* Decision Trees
+* Navie Bayes
   
 ## Environment Settings
 Anaconda Jupyter Notebook  
