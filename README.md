@@ -9,7 +9,9 @@ I am currently taking appropriate action by reporting this violation to IEEE and
 If you have any questions or additional information regarding this matter, please feel free to reach out or open an issue on this repository. Thank you for your support.
 
 Best regards,  
-**Yue (Dylan) Liang**  
+**Yue (Dylan) Liang**
+
+September 09, 2024
 
 ---
 
