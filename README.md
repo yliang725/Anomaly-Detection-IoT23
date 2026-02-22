@@ -46,3 +46,13 @@ Tensorflow 2.4
 ## IoT-23 Dataset  
 Stratosphere Laboratory. A labeled dataset with malicious and benign IoT network traffic. January 22th. Agustin Parmisano, Sebastian Garcia, Maria Jose Erquiaga.  
 https://www.stratosphereips.org/datasets-iot23
+
+
+
+## License
+
+This repository uses a dual-licensing model:
+
+**Code (GPL-3.0):** All source code (Jupyter notebooks, scripts, data preprocessing files) is licensed under the [GNU General Public License v3.0](LICENSE). You must give credit, include the license, open-source derivatives under GPL-3.0, and disclose source code.
+
+**Research Paper (CC BY-NC-ND 4.0):** The research paper and figures in the [Research Paper](Research%20Paper/) folder are licensed under [CC BY-NC-ND 4.0](Research%20Paper/LICENSE). You must credit the author (Yue Liang), may not use it commercially, and may not create derivative works.
